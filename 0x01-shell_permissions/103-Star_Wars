@@ -1,2 +1,2 @@
 #!/bin/bash
-asciinema play starwars.cast
+telnet towel.blinkenlights.nl
