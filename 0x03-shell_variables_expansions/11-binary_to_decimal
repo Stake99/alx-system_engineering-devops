@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Decimal: $(echo "ibase=2; $BINARY" | bc)"
+echo "Decimal: $(echo "ibase=2; $BINARY")"
